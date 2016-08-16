@@ -53,7 +53,7 @@
 #endif
 
 // Uncomment to disable built-in analog and digital operations.
-//#define BLYNK_NO_BUILTIN
+#define BLYNK_NO_BUILTIN
 
 // Uncomment to disable providing info about device to the server.
 //#define BLYNK_NO_INFO
